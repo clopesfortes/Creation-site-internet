@@ -1,0 +1,7 @@
+LANCER LE PROJET (Windows)
+1. Dezippez ce dossier sur le Bureau.
+2. Dans l'Explorateur, ouvrez le dossier, cliquez dans la barre d'adresse, tapez cmd puis Entree.
+3. Tapez : npm install
+4. Tapez : npm run dev
+5. Ouvrez http://localhost:3000 dans votre navigateur.
+Pour arreter : Ctrl + C dans le terminal.
